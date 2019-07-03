@@ -12,3 +12,4 @@ For example, if there are 250 iphones, and a customer bought 2 iphones,
 the quantity in an invetory will be updated to 248.
 
 
+Link: https://drive.google.com/open?id=1BuKgZNHbUS59iJ8tQonKv-zgfmsNDvuP
